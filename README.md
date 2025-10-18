@@ -26,3 +26,5 @@ Git commands :
 7.git add fileName [adds your file to your git staging area{you can add multiple files at one by using 8.git add .}]
 <br>
 9.git commit -m yourMessage [it will commit all staged files]
+<br>
+10.git push origin main [upload your local git changes to your remote gitHub]
