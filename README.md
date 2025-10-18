@@ -24,3 +24,5 @@ Git commands :
 6.git status [gives status of your local git with respect to server git 1.modified-existing file modified ,2.untracked-new file,3.unmodified-nothing changes happened,4.staged-file added and ready to become commited]
 <br>
 7.git add fileName [adds your file to your git staging area{you can add multiple files at one by using 8.git add .}]
+<br>
+9.git commit -m yourMessage [it will commit all staged files]
